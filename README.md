@@ -1,2 +1,2 @@
 # Python-skill-building
-Drills from my data science boot camp
+This repository contains introductory drills in Python from my data science boot camp. Also included are intermediate drills in pandas.
